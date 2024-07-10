@@ -1,6 +1,6 @@
 # snow-globe: A Winter Wonderland in Your Browser
 
-This project creates a beautiful and interactive snowglobe experience using HTML, CSS, and JavaScript. Witness a charming snowman nestled inside a glass globe as snowflakes gently fall around him.
+This project creates a beautiful and interactive snowglobe experience using HTML, CSS, and JavaScript. Witness a charming snowman nestled inside a glass globe as snowflakes gently fall around him. Followed tutoria by https://www.youtube.com/@alvaromontoro
 
 Features:
 
